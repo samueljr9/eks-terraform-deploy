@@ -3,10 +3,7 @@
 # Default Variables
 ################################################################################
 
-variable "profile" {
-  type    = string
-  default = ""
-}
+
 
 variable "main-region" {
   type    = string
